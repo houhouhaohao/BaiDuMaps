@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public BaiduMap baiduMap = null;
     private Button btnLocation;// 点击定位按钮
     private Button btnMapView;// 地图视图切换
-    private TextView tvPlace;
+    private TextView tvPlace;// 地点
     private EditText etSearch;
 
     // 定位相关声明
