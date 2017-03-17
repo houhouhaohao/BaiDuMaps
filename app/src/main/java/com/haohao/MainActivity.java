@@ -30,6 +30,7 @@ import java.util.Date;
 
 /**
  * 百度地图
+ * @author haohao
  */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
